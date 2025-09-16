@@ -27,7 +27,7 @@ env:
   DEPLOYMENT_NAME: tke-test
 
 permissions:
-  contents: k
+  contents: read
 
 jobs:
   setup-build-publish-deploy:
